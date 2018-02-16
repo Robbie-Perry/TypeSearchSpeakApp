@@ -1,0 +1,6 @@
+framework module Pods_TypeSearchSpeak {
+  umbrella header "Pods-TypeSearchSpeak-umbrella.h"
+
+  export *
+  module * { export * }
+}
